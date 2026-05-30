@@ -1,33 +1,51 @@
-📚 Week 1 AI Assignment - Smart Student Assistant
-📋 Project Overview
-This project demonstrates fundamental AI-assisted development concepts including:
+Week 1 AI Assignment
 
-Python programming fundamentals
-API integration with JSON parsing
-File I/O operations
-Git version control practices
-🚀 Features
-Part 1: Smart Student Assistant (main.py)
-Personalised user greeting
-Study tips generator
-Motivation quotes generator
-Current date/time display
-Session logging to text file
-Part 2: API Integration (api_task.py)
-Fetches random cat facts from public API
-Parses JSON responses
-Displays formatted output in terminal
-Saves raw JSON responses to file
-Part 3: Screenshots
-Raw JSON API response
-Formatted program output
-🛠️ How to Run
-Prerequisites
-pip install requests
-### Run the Student Assistant
-```bash
-python3 main.py
-python3 api_task.py
+AI Foundations & Developer Environment
+
+This repository contains my Week 1 assignment for the AI Foundations & Developer Environment course.
+
+Assignment Components
+
+Part 1: AI Concepts
+
+- Artificial Intelligence fundamentals
+- Machine Learning, Generative AI, and Agentic AI
+- Open-source AI models
+- AI-assisted development
+- AI hallucinations
+
+Part 2: Smart Student Assistant
+
+A Python application that:
+
+- Displays a personalized greeting
+- Generates study tips
+- Generates motivation quotes
+- Shows the current date and time
+- Saves outputs to a text file
+
+Part 3: API & JSON Task
+
+Python program that:
+
+- Fetches live data from a public API
+- Parses JSON responses
+- Displays formatted output
+- Demonstrates API integration using the requests library
+Part 4: GitHub & Open Source
+
+- Git repository management
+- Version control with GitHub
+- Meaningful commit history
+- Organized project structure
+
+Technologies Used
+
+- Python
+- JSON
+- REST APIs
+- Git
+- GitHub
 
 
 
