@@ -6,14 +6,6 @@ Python programming fundamentals
 API integration with JSON parsing
 File I/O operations
 Git version control practices
-📚 Week 1 AI Assignment - Smart Student Assistant
-📋 Project Overview
-This project demonstrates fundamental AI-assisted development concepts including:
-
-Python programming fundamentals
-API integration with JSON parsing
-File I/O operations
-Git version control practices
 🚀 Features
 Part 1: Smart Student Assistant (main.py)
 Personalised user greeting
